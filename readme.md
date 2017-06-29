@@ -1,3 +1,6 @@
+<h3>This is a CRUD application made in laravel</h3>
+<h4>About Laravel:</h4>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
